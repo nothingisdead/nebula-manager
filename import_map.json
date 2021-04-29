@@ -1,0 +1,7 @@
+{
+	"imports": {
+		"/"  : "./",
+		"./" : "./",
+		"@wasmer/wasmfs" : "https://cdn.jsdelivr.net/npm/@wasmer/wasmfs@0.12.0/lib/index.esm.js"
+	}
+}
