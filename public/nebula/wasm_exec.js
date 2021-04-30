@@ -1,1 +1,1 @@
-../../build/wasm_exec.js
+../../vendor/wasm_exec.js

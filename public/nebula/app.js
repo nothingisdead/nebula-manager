@@ -1,1 +1,1 @@
-../../build/app.js
+../../dist/app.js
